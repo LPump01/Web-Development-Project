@@ -21,7 +21,7 @@ This is a combination of 2 assignments from separate courses while I attended th
 - <b>https://lepump02.wixsite.com/worththewords</b> 
 
 <p align="center">
-The Protoype: <br/>
+<h2>The Prototype:</h2> <br/>
 <img src="https://i.imgur.com/jfl8twR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/OeDjWm9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/oyhObdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
