@@ -19,12 +19,12 @@ This is a combination of 2 assignment from seperate courses while I atteneded th
 
 <p align="center">
 The Protoype: <br/>
-<img src="https://imgur.com/jfl8twR" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/OeDjWm9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/oyhObdh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/1JhPpKO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/DS17fNf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/OZrLbJO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jfl8twR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OeDjWm9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oyhObdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1JhPpKO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DS17fNf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OZrLbJO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 </p>
